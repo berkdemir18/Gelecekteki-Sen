@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Neon Ring (Cyan) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,12 A42,42 0 1,1 53.99,12 Z" />
+
+    <!-- Inner Neon Ring (Light Blue) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1976D2"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"
+        android:pathData="M54,15 A39,39 0 1,1 53.99,15 Z" />
+
+    <!-- Hand silhouette pointing right (Gold / Yellow Accent) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:strokeColor="#FFB300"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M32,54 C32,54 35,46 41,43 C47,40 54,30 57,32 C60,34 50,45 50,45 H68 C71,45 71,49 68,49 H57 C61,49 65,49 63,53 C61,57 56,57 56,57 H60 C62,59 62,62 59,62 H54 C54,62 50,67 45,69 Z" />
+
+    <!-- Huge Stylized Blue "5" digit in the center-bottom -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M48,58 H58 L57.5,65 C59,64.2 61,64.2 62,65 C63,65.8 63.5,67 63.5,68.5 C63.5,70 63,71.5 61.8,72.2 C60.6,73 59,73.5 57,73.5 C55,73.5 53.5,73 52.5,71.8 C51.5,70.6 51,69.5 51,68.5 H54 C54,69.2 54.3,69.8 54.8,70.3 C55.3,70.8 56.1,71 57.1,71 C58.1,71 58.9,70.7 59.4,70.2 C59.9,69.7 60.1,69.1 60.1,68.3 C60.1,67.5 59.9,66.9 59.4,66.4 C58.9,65.9 58,65.7 56.8,65.7 C55,65.7 54.5,66 54.5,66 L53,60 H48 Z" />
+
+</vector>

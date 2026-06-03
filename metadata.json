@@ -1,0 +1,6 @@
+{
+  "name": "Gelecekteki Sen",
+  "description": "5 yıl sonraki geleceğinden gelen halinle konuş, günlük tut, gelişimi hisset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
