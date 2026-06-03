@@ -2,20 +2,43 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Gelecekteki Sen
 
-This contains everything you need to run your app locally.
+Gelecekteki Sen, gelecekteki versiyonunun bugünkü sana tavsiyeler verdiği AI destekli bir mobil uygulama projesidir.
 
-View your app in AI Studio: https://ai.studio/apps/1d29a8e7-3dd4-4ff7-878d-485ed685ec2e
+## Amaç
 
-## Run Locally
+Kullanıcının hedeflerini, düşüncelerini ve planlarını analiz ederek gelecekteki benliğinden geliyormuş gibi tavsiyeler sunmak.
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+## Özellikler
 
+* AI destekli sohbet
+* Gelecekteki benlik simülasyonu
+* Hedef ve motivasyon odaklı öneriler
+* Modern Android arayüzü
+* Gemini AI entegrasyonu
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+## Durum
+
+🚧 Proje aktif geliştirme aşamasındadır.
+
+## Teknolojiler
+
+* Android
+* Kotlin
+* Gemini AI
+* Google AI Studio
+
+## Kurulum
+
+Bu proje şu anda geliştirici sürümündedir. APK sürümü ileride yayınlanacaktır.
+
+## Not
+
+Bu proje Google AI Studio kullanılarak geliştirilmiştir ve geliştirme süreci devam etmektedir.
+
+---
+
+Geliştirici: Berk Demir
+GitHub: @berkdemir18
+
